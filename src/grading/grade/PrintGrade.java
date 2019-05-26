@@ -1,4 +1,4 @@
-package javaExampleCode;
+package grade;
 
 
 // Inputs a percentage number, and outputs a numeric grade
