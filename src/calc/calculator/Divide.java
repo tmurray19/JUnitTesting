@@ -1,4 +1,4 @@
-package calculator;
+package calc.calculator;
 
 public class Divide {
     public int quotient(int numerator, int denominator){

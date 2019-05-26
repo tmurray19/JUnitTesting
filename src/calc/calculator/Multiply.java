@@ -1,4 +1,4 @@
-package calculator;
+package calc.calculator;
 
 public class Multiply {
     public int times(int c, int d){

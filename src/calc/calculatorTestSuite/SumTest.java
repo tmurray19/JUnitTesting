@@ -1,10 +1,10 @@
-package calculatorTestSuite;
+package calc.calculatorTestSuite;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import calculator.Sum;
+import calc.calculator.Sum;
 
 import static org.junit.Assert.*;
 

@@ -1,10 +1,10 @@
-package calculatorTestSuite;
+package calc.calculatorTestSuite;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import calculator.Multiply;
+import calc.calculator.Multiply;
 
 import static org.junit.Assert.*;
 

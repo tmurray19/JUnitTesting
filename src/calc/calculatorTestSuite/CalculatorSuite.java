@@ -1,4 +1,4 @@
-package calculatorTestSuite;
+package calc.calculatorTestSuite;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

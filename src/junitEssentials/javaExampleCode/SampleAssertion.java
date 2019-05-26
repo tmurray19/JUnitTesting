@@ -1,4 +1,4 @@
-package javaExampleCode;
+package junitEssentials.javaExampleCode;
 
 // This code is a simple Hello, World class
 // Will be updated as needed

@@ -1,4 +1,4 @@
-package junitSuites;
+package junitEssentials.junitSuites;
 
 
 // These imports are all necessary to make various decorators work below

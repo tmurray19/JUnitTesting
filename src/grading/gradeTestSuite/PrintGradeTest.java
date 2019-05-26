@@ -1,10 +1,10 @@
-package gradeTestSuite;
+package grading.gradeTestSuite;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import javaExampleCode.PrintGrade;
+import grading.grade.PrintGrade;
 
 
 // Testing a written class

@@ -1,4 +1,4 @@
-package calculator;
+package calc.calculator;
 
 public class Sum {
     public int summation(int[] nums){

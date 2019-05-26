@@ -1,5 +1,5 @@
 
-package calculator;
+package calc.calculator;
 
 public class Calculator {
 

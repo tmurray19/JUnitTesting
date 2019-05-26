@@ -1,4 +1,4 @@
-package junitSuites;
+package junitEssentials.junitSuites;
 
 import static org.junit.Assert.*;
 

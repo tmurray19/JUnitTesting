@@ -1,4 +1,4 @@
-package junitBasics;
+package junitEssentials.junitBasics;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
